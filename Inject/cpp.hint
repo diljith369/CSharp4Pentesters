@@ -1,0 +1,2 @@
+#define INJECT_API __declspec(dllexport)
+#define INJECT_API __declspec(dllimport)
